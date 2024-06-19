@@ -2,8 +2,6 @@
 
 Enjoy a thrilling and challenging Memory Puzzle Game with immersive background music and satisfying click sounds.
 
-![Memory Puzzle](demo_image.png)
-
 ## How to Play
 
 - **Objective**: Match all pairs of cards to win.
@@ -23,9 +21,9 @@ Enjoy a thrilling and challenging Memory Puzzle Game with immersive background m
 
 ## Screenshots
 
-![Main Screen](main_screen.png)
+![Main Screen](https://github.com/mahin78692/Memory_Puzzle_Game/blob/main/Main%20Screen.png)
 
-![Final Screen](final_screen.png)
+![Final Screen](https://github.com/mahin78692/Memory_Puzzle_Game/blob/main/Final.png)
 
 ```css
 /* Cool CSS for Memory Puzzle Game */
